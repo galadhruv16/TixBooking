@@ -12,6 +12,7 @@ const LandingPage = () => {
     <div className="min-h-screen w-full relative text-white flex flex-col">
       {/* Hero background with theater image */}
       <div className="absolute inset-0 z-0">
+    
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{
