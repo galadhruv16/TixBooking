@@ -13,9 +13,9 @@ app.use(bodyParser.json());
 // Create a connection to the database
 const connection = mysql.createConnection({
   host: "localhost",
-  user: "root",
-  password: "mySQL@1611",
-  database: "TixBooking",
+  user: "",
+  password: "",
+  database: "",
 });
 
 // Connect to the database
